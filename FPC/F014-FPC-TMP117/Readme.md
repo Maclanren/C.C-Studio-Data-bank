@@ -132,16 +132,16 @@ void i2c_add_scan() {
 
 还没有客户对此产品有任何问题，欢迎通过qq或者论坛联系我们！
 
-## 包装信息
+## 资源链接
 
-## 更多
+## 文档资料
+- 原理图：[SCH_TMP117AIDRVRCircle-6P-V01.pdf](03.FPC Sensor PDF/SCH_TMP117AIDRVRCircle-6P-V01.pdf)
+- 开发指南：[TMP117-CC Studio.pdf](03.FPC Sensor PDF/TMP117-CC Studio.pdf)
+- 芯片手册：[TI-TMP117.pdf](02.TMP117 Datasheet/TI-TMP117.pdf)
 
-- [SCH.pdf][SCH_TMP117AIDRVR-Circle-6P-V01.pdf]
-- [DXF.pdf][TMP117-CC Studio.pdf]
-- [Bosch-BMP280.pdf]
+## 硬件资料
+- FPC插座手册：[04.FPC6P 0.5mm Socket Datasheet](04.FPC6P 0.5mm Socket Datasheet/)
+- 连接示意图：[05.Connection Diagram](05.Connection Diagram/Connection Diagram.png)
 
-[购买链接]
-[SCH_TMP117AIDRVR-Circle-6P-V01.pdf]: ../../FPC/F014-FPC-TMP117/03.FPC Sensor PDF/SCH_TMP117AIDRVR-Circle-6P-V01.pdf
-[TMP117-CC Studio.pdf]: ../../FPC/F014-FPC-TMP117/03.FPC Sensor PDF/TMP117-CC Studio.pdf
-[TI-TMP117.pdf]: ../../FPC/F014-FPC-TMP117/02.TMP117 Datasheet/TI-TMP117.pdf
-[购买链接]: https://item.taobao.com/item.htm?ft=t&id=957999744466
+## 购买链接
+[淘宝购买链接](https://item.taobao.com/item.htm?ft=&id=957999744466)
