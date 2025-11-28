@@ -134,14 +134,14 @@ void i2c_add_scan() {
 
 ## 资源链接
 
-## 文档资料
+### 文档资料
 - 原理图：[SCH_TMP117AIDRVRCircle-6P-V01.pdf](03.FPC Sensor PDF/SCH_TMP117AIDRVRCircle-6P-V01.pdf)
 - 开发指南：[TMP117-CC Studio.pdf](03.FPC Sensor PDF/TMP117-CC Studio.pdf)
 - 芯片手册：[TI-TMP117.pdf](02.TMP117 Datasheet/TI-TMP117.pdf)
 
-## 硬件资料
+### 硬件资料
 - FPC插座手册：[04.FPC6P 0.5mm Socket Datasheet](04.FPC6P 0.5mm Socket Datasheet/)
-- 连接示意图：[05.Connection Diagram](05.Connection Diagram/Connection Diagram.png)
+- 连接示意图：[Connection Diagram.png](05.Connection Diagram/Connection Diagram.png)
 
-## 购买链接
+### 购买链接
 [淘宝购买链接](https://item.taobao.com/item.htm?ft=&id=957999744466)
