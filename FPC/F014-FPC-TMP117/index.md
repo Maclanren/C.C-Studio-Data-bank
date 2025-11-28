@@ -6,7 +6,7 @@ img{
 }
 </style>
 
-![TMP117](../../FPC/F014-FPC-TM117/06.FPC Sensor Image/FPC-TMP117.png)
+![TMP117](../../FPC/F014-FPC-TMP117/06.FPC%20Sensor%20Image/FPC-TMP117.png)
 
 ## 简介
 
