@@ -1,3 +1,4 @@
+# FPC-TMP117
 <!-- 统一控制文档内图片宽度，不影响其他元素 -->
 <style>
   .sensor-img {
@@ -9,7 +10,6 @@
   }
 </style>
 
-## FPC-TMP117
 ![TMP117](../../FPC/F014-FPC-TMP117/06.FPC%20Sensor%20Image/FPC-TMP117.png)
 <!-- 注：如果是仓库内相对路径，确保路径正确；推荐用 raw 链接确保图片直接加载 -->
 
