@@ -1,0 +1,6 @@
+iic配置命令： sda/scl= gpio端口脚位 ferq=通信频率 建议使用100khz
+i2cconfig --port=0 --sda=4 --scl=5 --freq=100000
+
+iic监测设备地址命令：
+i2cdetect
+
