@@ -1,18 +1,14 @@
-# FPC-TMP117
-<!-- 统一控制文档内图片宽度，不影响其他元素 -->
-<style>
-  .sensor-img {
-    width: 400px;
-    max-width: 100%; /* 响应式适配：小屏幕时不超出容器 */
-    height: auto;    /* 保持图片比例，避免拉伸 */
-    display: block;  /* 去除图片默认inline的空隙 */
-    margin: 16px 0;  /* 上下留空，排版更美观 */
-  }
-</style>
+# F014-FPC-TMP117 
 
-![TMP117](../../FPC/F014-FPC-TMP117/06.FPC%20Sensor%20Image/FPC-TMP117.png)
-<!-- 注：如果是仓库内相对路径，确保路径正确；推荐用 raw 链接确保图片直接加载 -->
+## FPCA-TMP117
+<img src="../../FPC/F014-FPC-TMP117/06.FPC%20Sensor%20Image/FPC-TMP117.png" 
+     alt="FPC-TMP117.png"
+     style="width: 400px; max-width: 100%; height: auto; display: block; margin: 16px 0;">
 
+<!-- 图片说明（可选，按需保留） -->
+<figcaption style="color: #666; font-size: 14px; margin: 8px 0 24px;">
+  图1：FPCA-TMP117
+</figcaption>
 
 ## 简介
 
